@@ -69,3 +69,18 @@ http://localhost:3000
 
 O login padrao é email: admin@gmail.com e senha: 1234
 
+# Imagens do Sistema de Teste Tecnico
+
+## Tela 1 - Login
+![1](https://github.com/user-attachments/assets/3706db6d-c1dd-4e3d-b2a5-fc6998d99e75)
+
+## Tela 2 - Cadastro Empresa
+![2](https://github.com/user-attachments/assets/1a2e21a8-6fd9-42d2-bb5f-a5e1fdcb9754)
+
+## Tela 3 - Listagem Empresa
+![3](https://github.com/user-attachments/assets/d6105d98-6dc8-489f-9f22-8010ff6bcb51)
+
+## Tela 3 - Visualizaçao Empresa
+![4](https://github.com/user-attachments/assets/8bd289b4-45cc-4737-b4e6-ad13685883e5)
+
+
