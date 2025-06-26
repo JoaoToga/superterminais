@@ -20,7 +20,7 @@ Este projeto é composto por backend Laravel, frontend Vue.js e banco de dados P
 1. Clone o repositório
 
 ```bash
-git clone https://github.com/JoaoToga/superterminais
+git clone https://github.com/JoaoToga/superterminais.git
 cd superterminais
 ```
 
